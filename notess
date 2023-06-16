@@ -1,0 +1,67 @@
+                        //        javascript
+                        // -------------------------
+
+                        // 1.display content-console.log() 
+                        // 2.to store data-variable
+                        // 3.identifiers
+                        // 4.variable const/let/variable
+                        // 5.comments
+                        // 6.data types
+                        // 7.Operators
+                        // 8.Conditional statements-
+                        //    if(condition){
+                        //     when it true
+                        //    }else{
+                        //          when it false
+
+                        //       }
+                        //    9.Looping statements
+                        //         1.while loop
+                        //            syntax:
+                        //            1.Initializing variable
+                        //              2.while (condition) {
+                        //                   when condition is true
+                        //                   execute while body
+                        //                   change the value of variable that you used in the condition
+                        //                }
+
+                        //             2.for loop
+                        //             for(inilialization variable;condition;increment/decrement){
+                        //                   when condition is true
+                        //                   execute loop for body
+                        //             }
+                        //             3.nested loop -loop inside another loop
+
+                        //          10.Function  
+                                 
+                        //          function defnition
+                        //          function function-name(parameter){
+                        //             function body -stop to solve task
+                        //          }
+                        //          function call
+                        //          function-name(arguments)
+
+                        //        11. Array
+                        //          1.sort()
+                        //          2.push()
+                        //          3.pop()
+                        //          4.filter()
+                        //          5.find()
+                        //          6.map()
+                        //          7.reduce()/reduceRight()
+                        //          8.some()
+                        //          9.forEach()
+                        //          10.flat()
+                        //          11.includes()
+
+                        //         12. Objects
+
+                        //         13. Object Oriented Programming (OOPS)
+
+                                   // 13.1 Objects
+                                   // 13.2 Class
+                                   // 13.3 Reference 
+                                   
+
+                                
+                                    
